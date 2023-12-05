@@ -4,33 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9393621b-9e86-43dd-b324-c038515a2ecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/BackEnder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/BackendAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/FrontAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/FrontEnder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/FullStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lection2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lection2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lection2/MainCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lection2/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lection2/Sprite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/ServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar2/ServerRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9393621b-9e86-43dd-b324-c038515a2ecf" name="Changes" comment="1st task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/Backender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/BackenderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/FrontendImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/FullstackDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/back/front/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/free/work/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/free/work/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/free/work/ServerRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/free/work/ServerRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SettingsWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SettingsWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/BackEnder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/BackendAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/back/front/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/FrontAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/FrontEnder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/back/front/FrontEnder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/back/front/FullStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lection2/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lection2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lection2/MainCanvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lection2/MainWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lection2/Sprite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +73,11 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chat">
+  <component name="RunManager" selected="Application.Menu">
     <configuration name="Chat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="free.work.Chat" />
       <module name="JavaKit_1lection" />
@@ -125,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="back.front.Menu" />
+      <module name="JavaKit_1lection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="back.front.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServerRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="free.work.ServerRun" />
       <module name="JavaKit_1lection" />
@@ -140,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Menu" />
         <item itemvalue="Application.Chat" />
         <item itemvalue="Application.MainWindow" />
         <item itemvalue="Application.ServerRun" />
@@ -156,6 +162,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700448984835</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st task">
+      <created>1701232009356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701232009356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st task" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st task" />
   </component>
 </project>

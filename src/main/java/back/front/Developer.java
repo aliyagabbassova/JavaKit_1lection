@@ -1,4 +1,5 @@
 package back.front;
 
-abstract class Developer {
+public interface Developer {
+    String getName();
 }
